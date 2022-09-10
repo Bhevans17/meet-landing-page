@@ -8,13 +8,8 @@ This is a solution to the [Meet landing page challenge on Frontend Mentor](https
   - [The challenge](#the-challenge)
   - [Screenshot](#screenshot)
   - [Links](#links)
-- [My process](#my-process)
   - [Built with](#built-with)
-  - [What I learned](#what-i-learned)
-  - [Continued development](#continued-development)
-  - [Useful resources](#useful-resources)
-- [Author](#author)
-- [Acknowledgments](#acknowledgments)
+  - [Author](#author) 
 
 ## Overview
 
@@ -27,12 +22,11 @@ Users should be able to:
 
 ### Screenshot
 
-![](./screenshot.jpg)
+![](./preview.jpg)
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Live Site URL: [Meet Landing Page](https://your-live-site-url.com)
 
 ### Built with
 
@@ -45,4 +39,4 @@ Users should be able to:
 
 ## Author
 
-- Website - [Add your name here](https://www.brendenevans.com)
+- Website - [Brenden Evans](https://www.brendenevans.com)
