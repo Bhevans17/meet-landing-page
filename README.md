@@ -26,7 +26,7 @@ Users should be able to:
 
 ### Links
 
-- Live Site URL: [Meet Landing Page](https://your-live-site-url.com)
+- Live Site URL: [Meet Landing Page](https://meet-landing-page-demo.netlify.app/)
 
 ### Built with
 
