@@ -40,3 +40,5 @@ Users should be able to:
 ## Author
 
 - Website - [Brenden Evans](https://www.brendenevans.com)
+
+[![Netlify Status](https://api.netlify.com/api/v1/badges/9969f7ce-7720-4c91-8afa-e0bc9a5b356a/deploy-status)](https://app.netlify.com/sites/meet-landing-page-demo/deploys)
